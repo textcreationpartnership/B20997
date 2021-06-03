@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The method proposed by Alexander Cutting for preventing the increase of Fires, the burning and stealing of goods, paying the losses and damages by fire to houses, repairing and new building publick buildings, and recompencing the present insurers of houses from fire; all which is humbly conceived may by be performed for a tenth part of the charge that is now paid for insuring.</title>
+            <author>Cutting, Alexander.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20997</idno><idno type="EEBO-CITATION">99885611</idno>
+  <idno type="VID">185404</idno>
+  <idno type="EEBO-PROQUEST">2240888875</idno>
+  
+            <idno type="STC">Wing C7707</idno>
+            <idno type="STC">Interim Tract Supplement Guide 810.m.10[81]</idno>
+            <idno type="STC">ESTC R224713</idno>
+            <idno type="PROQUEST">ocm99885611</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885611e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185404)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The method proposed by Alexander Cutting for preventing the increase of Fires, the burning and stealing of goods, paying the losses and damages by fire to houses, repairing and new building publick buildings, and recompencing the present insurers of houses from fire; all which is humbly conceived may by be performed for a tenth part of the charge that is now paid for insuring.</title>
+                  <author>Cutting, Alexander.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Insurance, Fire --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Fire prevention --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:185404:1"/>
+            <head>THE METHOD PROPOSED BY Alexander Cutting FOR Preventing the Increase of FIRES, The Burning and Stealing of Goods, paying the Losses and Damages by Fire to Houses, Repairing and New Building Publick Buildings, and Recompencing the present Insurers of Houses from Fire; all which is Humbly Conceived may be performed for a Tenth Part of the Charge that is now paid for Insuring.</head>
+            <p>THAT there may be Trustees and Managers appointed for the purposes aforesaid, with their Clarks, Surveyors, Servants, <hi>&amp;c.</hi>
+            </p>
+            <p>That all the Houses within the Bills of Mortality, which pay to Church and Poor, may be Registered in their Books, not exceeding two Thirds of the true Value of each House, to be Surveyed by Surveyors upon Oath.</p>
+            <p>That there may be about Three Hundred honest Men to be Disposed of, as the Trustees and Managers shall think most proper for the Service; That they shall give Security and take an Oath of Fidelity.</p>
+            <p>That each of these Men shall have a Coat and Cap to distinguish them, and every One of them two Buckets at their Houses, which they shall be Obliged to bring with them at the time of a<g ref="char:EOLhyphen"/>ny Fire, and amongst them a sufficient Number of Hooks, Axes, and Saws.</p>
+            <p>That the Managers to Govern them have Power at the time of any Fire, to require the Con<g ref="char:EOLhyphen"/>stables of <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Parishes next Adjoyning, to prevent the Multitude coming to Fires, that the Men may the better perform their Duty by Extinguishing the Fire, and preven<g ref="char:EOLhyphen"/>ting the Goods from being Burnt or Stole.</p>
+            <p>That if any Person or Persons, shall presume to come within the Distance of <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of any Fire without leave first had, either from the Managers or Constables, such Person or Per<g ref="char:EOLhyphen"/>ons, shall for every such Offence, forfeit and pay the Sum of <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>That the Church-wardens of each Parish, when any Fire shall happen, to be Obliged (upon Notice given) to cause some of the Bells to Ring Backwards, which shall be the Notice to bring the Fire-men Together.</p>
+            <p>This Method is humbly conceived by the Conduct of the Managers, the use of Engins, Buc<g ref="char:EOLhyphen"/>kets, <hi>&amp;c.</hi> together with the Skill of the Fire-men, Twenty of which by Experience do more Ser<g ref="char:EOLhyphen"/>vice (and may in all probability soon Extinguish Fires) and are of more Use then Five Hun<g ref="char:EOLhyphen"/>dred of the common pretended Assistants, which stop the Way, and by their Unskilfulness, often increase Fires, and occasion ill Persons to steal Goods.</p>
+            <p>That it will be of very Great Benefit to all Owners of Houses, both by raising the Value of their Estates, and saving many of them from Ruin: And also to the Tenant, by preventing that Common No<g ref="char:EOLhyphen"/>torious practice of Stealing their Goods, which sometimes proves almost the Ruin of many of them.</p>
+            <p>That this may be performed at the Charge following, <hi>viz.</hi> All-houses valued at 50 <hi>l.</hi> or un<g ref="char:EOLhyphen"/>der, to pay 1 <hi>s.</hi> Yearly, and all Houses valued at above 50 <hi>l.</hi> and under 500 <hi>l.</hi> to pay 1 <hi>s.</hi> for the first 50 <hi>l.</hi> and after the Rate of 9 <hi>d. per Cent. per Ann.</hi> for the Remainder. All Houses va<g ref="char:EOLhyphen"/>lued at above 500 <hi>l.</hi> and under 2000 <hi>l.</hi> to pay. the Rates aforesaid for the first 500 <hi>l.</hi> and after the Rate of 6 <hi>d. per Cent. per Ann.</hi> for the Remainder. And all Houses valued at above 2000 <hi>l.</hi> to pay as aforesaid for the first 2000 <hi>l.</hi> and after the Rate of 3 <hi>d. per Cent. per Ann.</hi> for all Summs exceeding; so that what all small Houses pay is inconsiderable, and the Charge of the great Houses is made Easy.</p>
+            <p>That two Thirds of the said Charge be paid by the Landlord, and one Third by the Tenant, to be gathered by the Overseers of the Poor of each Parish half Yearly, and by them paid to the Trustees and Managers.</p>
+            <p>That by the Rates aforesaid it appears, That a House valued at 2000 <hi>l.</hi> is to pay but 11 <hi>s.</hi> and 10 <hi>d.</hi> ½ a Year; that is, 8 <hi>s.</hi> and 2 <hi>d.</hi> ½ by the Landlord, and 3 <hi>s</hi> and 8 <hi>d.</hi> by the Tenant: Where<g ref="char:EOLhyphen"/>as the Charge of Insuring 2000 <hi>l.</hi> for one Year by the present Insurers, would come to Six Pounds, which is above fourteen times as much.</p>
+            <p>That <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> shall be a Stock to pay all Losses and Damages by Fire to the Houses.</p>
+            <p>That <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Maintaining the Office, Clarks, Surveyors, Servants and Fire-men, and for paying for Books, Clothes, Materials to Extinguish Fires, and Recompencing the Trustees and Managers.</p>
+            <p>The other <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be Disposed of towards the Discharging the Contracts of the present Insurers, as the Trustees and Managers shall think fit, and afterwards to go to the Stock aforesaid.</p>
+            <p>And at any time when the Stock shall amount to above <gap reason="illegible: omitted in print" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pounds, the Overplus to go towards the Rebuilding of <hi>White-Hall,</hi> or Building of <hi>Greenwich</hi> Hospi<g ref="char:EOLhyphen"/>tal, or any other Publick Business as this Honourable House shall think fit.</p>
+            <p>All which is Humbly Submitted to this Honourable House.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
